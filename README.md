@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm Deepak Sah
-"A passionate coder from India"
+I'm a passionate and innovative full stack developer with a knack for turning ideas into robust digital solutions. With a strong foundation in both front-end and back-end development, I thrive in dynamic environments where I can leverage my skills to create engaging user experiences and scalable applications.
 
 - 🌱 I’m currently learning Mern Stack
 - ⚡ Fun fact: Iam not lazy
